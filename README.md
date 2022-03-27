@@ -9,6 +9,9 @@ Run `npm install` to install the dependencies
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 # Project Requirements
+- Fork repository
+- You have 3 days to complete
+- Create PR when complete
 
 ## UI
 - Create a login page component.
