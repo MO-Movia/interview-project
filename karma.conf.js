@@ -28,17 +28,17 @@ module.exports = function (config) {
       dir: require('path').join(__dirname, './coverage/interview-project'),
       subdir: '.',
       reporters: [
-        { type: 'html' },
+        // { type: 'html' },
         { type: 'text-summary' }
       ]
     },
-    reporters: ['progress', 'kjhtml'],
+    reporters: ['progress', 'coverage'],
     port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
-    browsers: ['Chrome'],
-    singleRun: false,
-    restartOnFileChange: true
+    browsers: ['ChromeHeadless'],
+    singleRun: true,
+    // restartOnFileChange: true
   });
 };
