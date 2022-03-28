@@ -26,7 +26,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app 
 - Update the service to perform the login and logout requests for users. Normally the service would forward the requests via REST to a server but for this exercise we will stop at the service layer.
 - Add a login request that accepts a username and password for user access.
 - Add a logout request that logs the curent user out.
-- Maintain a user session as state. For example, when a user logs is the session is saved such that a reload of the page remembers the user from the active session.
+- Maintain a user session as state. For example, when a user logs in the session is saved such that a reload of the page remembers the user from the active session.
 - Track each user login/logout with a date/time stamp.
 - Add a way to request the last login date/time per user.
 
