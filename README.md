@@ -1,4 +1,5 @@
 # InterviewProject
+![Build Status](https://github.com/MO-Movia/interview-project/workflows/build/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/MO-Movia/interview-project/branch/main/graph/badge.svg?token=3MQE48YNWV)](https://codecov.io/gh/MO-Movia/interview-project)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
