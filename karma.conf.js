@@ -28,11 +28,11 @@ module.exports = function (config) {
       dir: require('path').join(__dirname, './coverage/interview-project'),
       subdir: '.',
       reporters: [
-        { type: 'html' },
-        { type: 'text-summary' }
+        {type: 'lcovonly', subdir: '.'},
+        {type: 'json', subdir: '.'},
       ]
     },
-    reporters: ['progress', 'kjhtml'],
+    reporters: ['progress', 'kjhtml', 'coverage'],
     port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
