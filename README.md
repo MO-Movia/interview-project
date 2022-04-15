@@ -2,7 +2,7 @@
 ![Build Status](https://github.com/MO-Movia/interview-project/workflows/build/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/MO-Movia/interview-project/branch/main/graph/badge.svg?token=3MQE48YNWV)](https://codecov.io/gh/MO-Movia/interview-project)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) v13.3.0 with [Node.js](https://nodejs.org/en/download) v16.14.2 (npm v8.5.0).
 
 ## Installation
 Run `npm install` to install the dependencies
