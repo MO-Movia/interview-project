@@ -5,7 +5,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) v13.3.0 with [Node.js](https://nodejs.org/en/download) v16.14.2 (npm v8.5.0).
 
 ## Installation
-Run `npm install` to install the dependencies
+Run `npm ci` to install the dependencies
 
 ## Run Application
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
